@@ -3,6 +3,9 @@
 ### 📚 Escola Presente
 O Provecto acredita que para chegar ao futuro, basta ser presente. E ser presente é pensar e investir em todas as etapas do ensino, desde a qualidade do corpo docente até as estratégias inovadoras de aprendizagem.
 
+
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+
 [<img src="{https://img.shields.io/badge/colegioprovecto.com.br-Site-blue?style=for-the-badge&logo=appveyor}">] (https://colegioprovecto.com.br)
 
 [https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white] (https://www.instagram.com/colegioprovectooficial/)
